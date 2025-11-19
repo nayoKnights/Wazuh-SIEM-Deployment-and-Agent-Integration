@@ -53,4 +53,30 @@ Refer: <a href="https://documentation.wazuh.com/current/installation-guide/index
 
 *Wazuh Dashboard* <br>
 <img width="960" height="540" alt="{9054D565-B487-4CFF-AED6-51F216548A28}" src="https://github.com/user-attachments/assets/ca17fe62-c488-4b10-b99c-42e3556084b1" />
+<br> <br>
+
+*Connected Agents* <br>
+<img width="960" height="540" alt="{8ECFADAF-3583-4138-A63B-03AE24080A9F}" src="https://github.com/user-attachments/assets/50087da2-f30b-4b02-9903-62b70b6be61e" /> 
+<br> <br>
+
+*Kali agent - detailed view*
+<img width="960" height="540" alt="{A6D31BB2-ABDF-4263-8ACF-0F4E2FE59DA4}" src="https://github.com/user-attachments/assets/d96aa6cf-ecf8-4402-9f97-42d5088de7af" />
+<br> <br>
+
+*Windows 11 Home - detailed view*
+<img width="960" height="540" alt="{0D2C2352-DA1A-40FE-82EC-09BDDF24DB3A}" src="https://github.com/user-attachments/assets/4b66e220-3e76-47b8-90d5-58e7a7b2651c" />
+<br> <br>
+
+*Windows Server 2022 - detailed view*
+<img width="960" height="540" alt="{06517A22-842E-41EB-BDA6-C91A3F00A4D3}" src="https://github.com/user-attachments/assets/7a33b97e-3eda-4427-8ab9-bc1eab5000d9" />
+
+
+*SIEM Event ingestion/Log collection/Basic Security Monitoring - Sample*
+<br> <br>
+<img width="960" height="540" alt="{56AD8FE6-D8A1-48D2-8288-A13DCAB5DE8C}" src="https://github.com/user-attachments/assets/cf325049-6e78-4717-8164-810eb00177d5" />
+
+
+
+
+
 
