@@ -49,4 +49,8 @@ Refer: <a href="https://documentation.wazuh.com/current/installation-guide/index
 
 *sudo systemctl status wazuh-dashboard* <br>
 <img width="940" height="395" alt="image" src="https://github.com/user-attachments/assets/c2a1023b-dac0-424c-8b87-f11f0872137a" />
-<br>
+<br> <br>
+
+*Wazuh Dashboard* <br>
+<img width="960" height="540" alt="{9054D565-B487-4CFF-AED6-51F216548A28}" src="https://github.com/user-attachments/assets/ca17fe62-c488-4b10-b99c-42e3556084b1" />
+
