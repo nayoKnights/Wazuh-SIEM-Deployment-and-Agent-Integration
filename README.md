@@ -33,23 +33,41 @@ This project aims to build a functional SIEM environment in a local virtual SOC 
 ## Steps
 
 - The Wazuh docs was used as installation guide for both wazuh deployment and agent integration. <br> 
-Refer: <a href="https://documentation.wazuh.com/current/installation-guide/index.html"> Wazuh installation guide </a>
-- Tip: For a hassle free process, the assisted installation is prefered over the step-by-step installation.
+Refer: <a href="https://documentation.wazuh.com/current/quickstart.html"> Quickstart </a> or <a href="https://documentation.wazuh.com/current/installation-guide/index.html"> Wazuh  installation guide </a> <br> <br>
+- Quickstart method: *Download and run the Wazuh installation assistant.*
+```
+curl -sO https://packages.wazuh.com/4.14/wazuh-install.sh && sudo bash ./wazuh-install.sh -a
+```
+- Once the assistant finishes the installation, the output shows the access credentials and a message that confirms that the installation was successful.
+
+```
+INFO: --- Summary ---
+INFO: You can access the web interface https://<WAZUH_DASHBOARD_IP_ADDRESS>
+    User: admin
+    Password: <ADMIN_PASSWORD>
+INFO: Installation finished.
+```
+- Tip: For a hassle free process, the Quickstart or assisted installation is prefered over the step-by-step installation.
 - After completion, the following commands were run to ensure successful deployment of Wazuh. <br>
   See commands and expected output below:
 
-
-*sudo systemctl status wazuh-indexer* <br>
+```
+sudo systemctl status wazuh-indexer
+```
 <img width="940" height="391" alt="image" src="https://github.com/user-attachments/assets/d05ea4ac-41d7-4ba5-8e6f-e25fc89e1a63" />
-<br>
+<br> <br> <br>
 
-*sudo systemctl status wazuh-manager* <br>
+```
+sudo systemctl status wazuh-manager
+```
 <img width="940" height="551" alt="image" src="https://github.com/user-attachments/assets/304b8eb2-f118-4492-871c-866e8a270e3f" />
-<br>
+<br> <br> <br>
 
-*sudo systemctl status wazuh-dashboard* <br>
+```
+sudo systemctl status wazuh-dashboard
+```
 <img width="940" height="395" alt="image" src="https://github.com/user-attachments/assets/c2a1023b-dac0-424c-8b87-f11f0872137a" />
-<br> <br>
+<br> <br> <br>
 
 ### Screenshot Demos <br>
 
